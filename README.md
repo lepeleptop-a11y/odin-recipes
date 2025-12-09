@@ -1,1 +1,3 @@
-# odin-recipes
+This is my firt project since inrollin in the odin project. The project is named recipes, is about the foundamentals of HTML. HTML (Hyper Text Markup Languge) is a programing language used to create webpage. It tells the browser what to display (eg Text, Links, images ...)
+
+I have learned how to create a web page, write titles, add text (making it bold, italic), adding images, creating links (making the link to open in a new tab once you click it) to a web page.
